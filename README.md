@@ -1,2 +1,26 @@
-Last updated: 2026-09-16 07:13:43 WIB
-Last updated: 2026-09-16 07:20:29 WIB
+# hr-attendance
+
+
+
+## 📋 Overview
+
+This repository contains **154 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-16 07:30:53 WIB*
